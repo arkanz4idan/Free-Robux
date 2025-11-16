@@ -1,0 +1,21 @@
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Arial';
+}
+
+.content {
+    margin: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Verdana';
+}
+
+.Download_File {
+    margin: 20px;
+    text-align: center;
+    
+}
